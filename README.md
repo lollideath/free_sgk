@@ -25,7 +25,7 @@
 ## 4. [AISGK](https://t.me/aishegongkubot?start=AISGK_KZWHBQQ1)
 - 查询免费，结果部分打码，解码需积分
 - 新用户有免费积分，可以签到获得积分
-- 地址数据仅次于以上几个bot
+- 地址数据~仅次于以上几个bot~和以上几个不一样
 - [点击使用](https://t.me/aishegongkubot?start=AISGK_KZWHBQQ1)
 
 ## 5. [叮当猫](https://t.me/DingDangCats_Bot?start=d36f465147a9ca6c)
