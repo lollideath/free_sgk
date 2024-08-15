@@ -10,16 +10,16 @@
 - 每日3次查询次数，结果部分打码，解码需积分
 - [点击使用](https://t.me/XingDun2Bot?start=eAzPiQM)
 
-## 2. [黑盒](https://t.me/BOXsgkbot?start=tmme4LO)
+## 2. [AISGK](https://t.me/aishegongkubot?start=AISGK_KZWHBQQ1)
+- 查询免费，结果部分打码，解码需积分
+- 新用户有免费积分，可以签到获得积分
+- 地址时间跨度比星盾早
+- [点击使用](https://t.me/aishegongkubot?start=AISGK_KZWHBQQ1)
+
+## 3. [黑盒](https://t.me/BOXsgkbot?start=tmme4LO)
 - **地址数据仅次于星盾**
 - 新用户10次查询次数，结果不打码，成功自动扣分
 - [点击使用](https://t.me/BOXsgkbot?start=tmme4LO)
-
-## 3. [AISGK](https://t.me/aishegongkubot?start=AISGK_KZWHBQQ1)
-- 查询免费，结果部分打码，解码需积分
-- 新用户有免费积分，可以签到获得积分
-- 数据~仅次于以上几个bot~和以上几个比较不一样，可能有惊喜
-- [点击使用](https://t.me/aishegongkubot?start=AISGK_KZWHBQQ1)
 
 ## 4. [X-ray](https://t.me/Zonesgk_bot?start=QPOOTYOSUU)
 - 查询免费，结果部分打码，解码需积分，新用户有免费积分
@@ -46,8 +46,3 @@
 - 可以签到获取积分
 - [点击使用](https://t.me/FanHuaSGK_bot?start=FanHua_UQSIHGMK)
 
-## 8. [佳聚](https://t.me/jiajufuli_bot?start=6736273393)
-- 个户机器人，给身份证出个户
-- 要排队，等待时间比较久
-- 记得先注册再签到
-- [点击使用](https://t.me/jiajufuli_bot?start=6736273393)
