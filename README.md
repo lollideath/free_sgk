@@ -3,7 +3,7 @@
 
 - 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份z号|公司或店铺名称
 
-以下按照个人使用感受的数据全面程度排名，选出了最好用的几个，基本上集合了网上所有免费社工库的功能和信息：
+社工库bot有很多，但是其中很多是重复的信息，以下是个人筛选后觉得最好用的几个，基本上集合了网上所有免费社工库的功能和信息：
 
 ## 1. [星盾](https://t.me/XingDun2Bot?start=eAzPiQM)
 - 数据超全，**全网独家包含45亿快递数据**
@@ -45,4 +45,9 @@
 - 查询免费，结果部分打码，解码按数量扣几分
 - 可以签到获取积分
 - [点击使用](https://t.me/FanHuaSGK_bot?start=FanHua_UQSIHGMK)
+
+## 8.[SpaceX](https://t.me/SpaceSGK_bot?start=Fkt3RTX1Ba)
+- 主要猎魔用，机主、同名、tg信息、模糊找人
+- 有免费积分
+- [点击使用](https://t.me/SpaceSGK_bot?start=Fkt3RTX1Ba)
 
