@@ -51,3 +51,13 @@
 - 有免费积分
 - [点击使用](https://t.me/SpaceSGK_bot?start=Fkt3RTX1Ba)
 
+# 专门用途
+
+## 9.[一证通](https://t.me/yizhengtongtgbot?start=2100570433)
+- 用来查机主 支机 补齐 猎魔 法人 护照 等等，模糊找人比较强
+- 主要找人用，数据据说比较丰富
+- [点击使用](https://t.me/yizhengtongtgbot?start=2100570433)
+
+## 10.[佳聚](https://t.me/jiajufuli_bot?start=2100570433)【前段时间停止运营但是现在又恢复了】
+- 给身份证号码，出个户 照片
+- [点击使用](https://t.me/jiajufuli_bot?start=2100570433)
