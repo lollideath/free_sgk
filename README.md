@@ -51,6 +51,11 @@
 - 有免费积分
 - [点击使用](https://t.me/SpaceSGK_bot?start=Fkt3RTX1Ba)
 
+## 9.[易查查](https://t.me/yichacha_bot?start=6736273393)
+- 好像猎魔功能还不错，还没验证过
+- 可以签到获取积分
+- [点击使用](https://t.me/yichacha_bot?start=6736273393)
+
 # 专门用途
 
 ## ~~9.[一证通](https://t.me/yizhengtongtgbot?start=2100570433)~~
