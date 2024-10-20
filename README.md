@@ -52,7 +52,7 @@
 - [点击使用](https://t.me/SpaceSGK_bot?start=Fkt3RTX1Ba)
 
 ## 9.[易查查](https://t.me/yichacha_bot?start=6736273393)
-- 好像猎魔功能还不错，还没验证过
+- 有学历信息、车主等等，有一些别的sgk缺少的功能
 - 可以签到获取积分
 - [点击使用](https://t.me/yichacha_bot?start=6736273393)
 
