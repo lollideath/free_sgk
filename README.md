@@ -10,12 +10,8 @@
 - 每日3次查询次数，结果部分打码，解码需积分
 - [点击使用](https://t.me/XingDun2Bot?start=eAzPiQM)
 
-## 2. [AISGK-新bot需要重新注册](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
-- 前一段时间G了，现在换了新的bot，都要重新注册 **新bot数据似乎不一样，目前看起来比老bot少很多**
-- 查询免费，结果部分打码，解码需积分
-- 新用户有免费积分，可以签到获得积分
-- 数据类型超全，地址时间跨度比星盾早
-- [点击使用](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
+## 2. [~~AISGK-新bot~~](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
+- 前一段时间G了，现在换了新的bot，没有那么推荐了
 
 ## 3. [黑盒](https://t.me/BOXsgkbot?start=tmme4LO)
 - **地址数据仅次于星盾**
@@ -46,6 +42,15 @@
 - 查询免费，结果部分打码，解码按数量扣几分
 - 可以签到获取积分
 - [点击使用](https://t.me/FanHuaSGK_bot?start=FanHua_UQSIHGMK)
+
+## 暂时 2. [AISGK-新bot](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
+- 前一段时间G了，现在换了新的bot，都要重新注册
+- **新bot数据似乎不一样，目前看起来比老bot少很多**
+- **个人查询感觉新bot和繁花是一样的**
+- 查询免费，结果部分打码，解码需积分
+- 新用户有免费积分，可以签到获得积分
+- 数据类型超全，地址时间跨度比星盾早
+- [点击使用](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
 
 ## 8.[SpaceX](https://t.me/SpaceSGK_bot?start=Fkt3RTX1Ba)
 - 主要猎魔用，机主、同名、tg信息、模糊找人
