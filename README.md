@@ -11,7 +11,7 @@
 - [点击使用](https://t.me/XingDun2Bot?start=eAzPiQM)
 
 ## 2. [AISGK-新bot需要重新注册](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
-- 前一段时间G了，现在换了新的bot，都要重新注册
+- 前一段时间G了，现在换了新的bot，都要重新注册 **新bot数据似乎不一样，目前看起来比老bot少很多**
 - 查询免费，结果部分打码，解码需积分
 - 新用户有免费积分，可以签到获得积分
 - 数据类型超全，地址时间跨度比星盾早
