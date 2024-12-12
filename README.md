@@ -10,8 +10,12 @@
 - 每日3次查询次数，结果部分打码，解码需积分
 - [点击使用](https://t.me/XingDun2Bot?start=eAzPiQM)
 
-## 2. [~~AISGK-新bot~~](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
-- 前一段时间G了，现在换了新的bot，没有那么推荐了
+## 2. [Seed](https://t.me/SeedSGKBOT?start=88omv8f2j)
+- 似乎有支付宝，法人，微信，b站，qq群反查功能，没有全部试过
+- 搜完手机以后有“附近的人”功能……还没搞懂是干嘛的，要充钱
+- 可以签到
+- 个人比较喜欢的是数据来源标签打得比较清楚（天猫/JD/圆通等）
+- [点击使用](https://t.me/SeedSGKBOT?start=88omv8f2j)
 
 ## 3. [黑盒](https://t.me/BOXsgkbot?start=tmme4LO)
 - **地址数据仅次于星盾**
@@ -43,13 +47,14 @@
 - 可以签到获取积分
 - [点击使用](https://t.me/FanHuaSGK_bot?start=FanHua_UQSIHGMK)
 
-## 暂时 2. [AISGK-新bot](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
+## 暂时 [AISGK-新bot](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
 - 前一段时间G了，现在换了新的bot，都要重新注册
 - **新bot数据似乎不一样，目前看起来比老bot少很多**
 - **个人查询感觉新bot和繁花是一样的**
 - 查询免费，结果部分打码，解码需积分
 - 新用户有免费积分，可以签到获得积分
 - 数据类型超全，地址时间跨度比星盾早
+- 增加了收费的定位、出个户等功能
 - [点击使用](t.me/AI_SGKBOT?start=AISGK_MXQYZSZR)
 
 ## 8.[SpaceX](https://t.me/SpaceSGK_bot?start=Fkt3RTX1Ba)
@@ -57,7 +62,7 @@
 - 有免费积分
 - [点击使用](https://t.me/SpaceSGK_bot?start=Fkt3RTX1Ba)
 
-## 9.[易查查](https://t.me/yichacha_bot?start=6736273393)
+## [~~易查查~~G了](https://t.me/yichacha_bot?start=6736273393)
 - 有学历信息、车主等等，有一些别的sgk缺少的功能
 - 可以签到获取积分
 - [点击使用](https://t.me/yichacha_bot?start=6736273393)
