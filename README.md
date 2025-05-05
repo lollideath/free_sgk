@@ -46,7 +46,7 @@
 
 ### 🌟 [小助手](https://t.me/youxs520_bot?start=2cjkLHF6Duac)
 - 🔍 主要特色：
-  - 专门核验信息是否准确（非社工库）
+  - 专业核验信息是否准确
   - 支持二要素三要素、支付宝、企业法人、人脸核验等等
 - ✅ 是否有签到积分：有
 - 👉 [点击使用](https://t.me/youxs520_bot?start=2cjkLHF6Duac)
@@ -62,6 +62,14 @@
 - 👉 [点击使用](https://t.me/SeedSGKBOT?start=u7qbdy6ir)
 
 ---
+最近比较红火的
+### 🌟 [好旺](t.me/haowangshegongkubot?start=2GY8TFD874KRD1E56Q5TA)
+- 🔍 主要特色：
+  - 同样是综合信息功能强大
+  - 关联功能，比较直观
+  - 模糊搜索功能很强，具体的参照高级指令
+- ✅ 是否有签到积分：有
+- 👉 [点击使用](t.me/haowangshegongkubot?start=2GY8TFD874KRD1E56Q5TA)
 
 ### 🌟 [X-ray](https://t.me/Zonesgk_bot?start=XYUXQYUUAU)
 - 🔍 主要特色：
